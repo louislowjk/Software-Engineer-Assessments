@@ -1,2 +1,2 @@
 # Software-Engineer-Assessments
-Ryde Technologies: Software Engineer Assessments
+Software Engineer Assessments
