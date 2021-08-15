@@ -11,7 +11,7 @@ import com.ryde.DTO.UserDTO;
 import com.ryde.Service.UserService;
 
 @SpringBootApplication
-public class SoftwareEngineerAssessmentApplication implements CommandLineRunner {
+public class SoftwareEngineerAssessmentApplication  {
 	@Autowired
 	UserService service;
 
@@ -20,8 +20,5 @@ public class SoftwareEngineerAssessmentApplication implements CommandLineRunner 
 
 	}
 
-	@Override
-	public void run(String... args) throws Exception {
-		
-	}
+
 }
