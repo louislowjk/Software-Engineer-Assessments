@@ -15,7 +15,7 @@ Git Hub Repository :  "https://github.com/louislowjk/Software-Engineer-Assessmen
    1) Using IntelliJ IDEA
       1) Click File -> New -> Project from Version Control
       2) We can copy the link from the git hub repository, "https://github.com/louislowjk/Software-Engineer-Assessments.git" and paste in the dialog.
-      3) Project will be created and you can run the program.
+      3) Project will be created and click on the SoftwareEngineerAssessmentApplication.class file and run the application.
    2) Using Eclipse
       1) Go to the git hub repository and download the zip file of the codes
       2) Unzip and import the file as a maven project. 
