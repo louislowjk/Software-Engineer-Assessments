@@ -9,7 +9,7 @@ REST Api are bring made in the UserAPI class using RestController annotations. G
 
 #How to run the code
 Git Hub Repository :  "https://github.com/louislowjk/Software-Engineer-Assessments.git"
-1) Use MySQLDeveloper and run the sql codes found in TABLE_SCRIPT.sql to create the table with some values
+1) Use MySQLDeveloper and run the sql codes found in TABLE_SCRIPT.sql in the resource folder to create the table with values
 2) Use XAMPP to start an SQL service at port 3306
 3) We can run the code in two ways using IntelliJ IDEA or Eclipse. 
    1) Using IntelliJ IDEA
